@@ -18,7 +18,7 @@ Autorisation page include line edit boxes for your login and password and combo 
 </div>
 
 # Messages page
-Messages page include all your messages was sorted with current flag (read/unread/deleted...)
+Messages page include all your messages was sorted with current flag (read/unread/deleted...) and mail folder
 <div id="header" align="center">
   <img src="https://github.com/VivanDenon/Images/blob/main/MailBox/Messages.png" width="800"/>
 </div>
